@@ -1,0 +1,220 @@
+/*
+	@name index
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 9516px; width: 9516px; height: 4435px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1429px;
+	height: 4435px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1429px;
+	height: 4435px;
+	background:rgba(255,255,255,1);
+}
+
+
+#biblebackground {
+	top: 0px;
+	left: 0px;
+	width: 1429px;
+	height: 664px;
+}
+
+
+#biblelogo {
+	top: 0px;
+	left: 0px;
+	width: 212px;
+	height: 62px;
+}
+
+
+#upperbar {
+	top: 0px;
+	left: 213px;
+	width: 1214px;
+	height: 62px;
+}
+
+
+#DHsogae {
+	top: 17px;
+	left: 280px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#iphakannae {
+	top: 17px;
+	left: 405px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#illipGY {
+	top: 17px;
+	left: 530px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#jeongongGY {
+	top: 17px;
+	left: 680px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#DHone {
+	top: 15px;
+	left: 830px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	
+	-ms-transform:rotate(-0.52deg);
+	-o-transform:rotate(-0.52deg);
+	-webkit-transform:rotate(-0.52deg);
+	-moz-transform:rotate(-0.52deg);
+	transform:rotate(-0.52deg);
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#DHsaenghwar {
+	top: 17px;
+	left: 930px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#opencampus {
+	top: 17px;
+	left: 1055px;
+	width: 609px;
+	height: 202px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 23px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#samdanbar_high {
+	top: 19px;
+	left: 1305px;
+	width: 30px;
+	height: 4px;
+	
+	-ms-transform:rotate(-180deg);
+	-o-transform:rotate(-180deg);
+	-webkit-transform:rotate(-180deg);
+	-moz-transform:rotate(-180deg);
+	transform:rotate(-180deg);
+	background:#FFFFFF;
+}
+
+
+#samdanbar_mid {
+	top: 28px;
+	left: 1305px;
+	width: 30px;
+	height: 4px;
+	
+	-ms-transform:rotate(-180deg);
+	-o-transform:rotate(-180deg);
+	-webkit-transform:rotate(-180deg);
+	-moz-transform:rotate(-180deg);
+	transform:rotate(-180deg);
+	background:#FFFFFF;
+}
+
+
+#samdanbar_low {
+	top: 37px;
+	left: 1305px;
+	width: 30px;
+	height: 4px;
+	
+	-ms-transform:rotate(-180deg);
+	-o-transform:rotate(-180deg);
+	-webkit-transform:rotate(-180deg);
+	-moz-transform:rotate(-180deg);
+	transform:rotate(-180deg);
+	background:#FFFFFF;
+}
+
+
+#earthicon {
+	top: 15px;
+	left: 1205px;
+	width: 28px;
+	height: 31px;
+}
+
+
+#kor {
+	top: 26px;
+	left: 1220px;
+	width: 324px;
+	height: 180px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
